@@ -52,9 +52,10 @@ Let's discuss one of the most popular UI JavaScript libraries, React. With vario
   - rollup.js
 - [CRA (Create React App)](https://create-react-app.dev)
 - [Vite](https://vitejs.dev)
-- Gatsby
-- Next.js
-- Remix
+- [Gatsby](https://gatsbyjs.com)
+- [Next.js](https://nextjs.org)
+- [Remix](https://remix.run)
+- [Astro](https://astro.build)
 - Versus
   - Vue
   - Svelte
