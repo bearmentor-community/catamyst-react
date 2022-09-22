@@ -69,6 +69,11 @@ Let's discuss one of the most popular UI JavaScript libraries, React. With vario
   - Bulma
   - Tailwind UI
   - daisyUI
+  - VechaiUI
+- CSS-in-JS
+  - styled-components
+  - @emotion
+  - Stitches
 - Component behavior/functionality
   - Radix UI
   - Headless UI
