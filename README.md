@@ -21,10 +21,12 @@ Let's discuss one of the most popular UI JavaScript libraries, React. With vario
   - Module
   - Async
   - DOM (document object model)
+    - `document` and `window` object
   - OOP (object-oriented programming)
   - FP (functional programming)
 - Node.js vs Deno vs Bun.sh
   - npm vs yarn vs pnpm
+  - `process` object and environment variable (`.env`)
 - ESLint
 - TypeScript
 - API
