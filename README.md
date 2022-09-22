@@ -43,7 +43,15 @@ Let's discuss one of the most popular UI JavaScript libraries, React. With vario
   - Props & State
   - Form
   - Routing
-- Vite
+    - React Router
+    - wouter
+- Bundler + Transpiler
+  - Webpack + Babel
+  - Vite + ?
+  - Parcel
+  - rollup.js
+- [CRA (Create React App)](https://create-react-app.dev)
+- [Vite](https://vitejs.dev)
 - Gatsby
 - Next.js
 - Remix
@@ -73,6 +81,10 @@ Let's discuss one of the most popular UI JavaScript libraries, React. With vario
   - Redux
   - MobX
   - Zustand & Jotai
+- HTTP Client / Request library
+  - SWR -> REST
+  - React Query -> REST & GraphQL
+  - Apollo -> GraphQL
 - ORM (object relational mapping)
   - Prisma
   - TypeORM
@@ -81,6 +93,11 @@ Let's discuss one of the most popular UI JavaScript libraries, React. With vario
   - Netlify
   - Cloudflare Pages & Workers
   - Fly.io
+- Backend / BaaS
+  - KeystoneJS
+- Testing
+  - Jest
+  - @testing-library
 
 ## Profit
 
