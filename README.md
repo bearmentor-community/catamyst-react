@@ -89,6 +89,8 @@ Let's discuss one of the most popular UI JavaScript libraries, React. With vario
   - Redux
   - MobX
   - Zustand & Jotai
+  - Recoil
+  - Nano Stores
 - HTTP Client / Request library
   - SWR -> REST
   - React Query -> REST & GraphQL
@@ -96,6 +98,8 @@ Let's discuss one of the most popular UI JavaScript libraries, React. With vario
 - ORM (object relational mapping)
   - Prisma
   - TypeORM
+- Internationalization
+  - i18next
 - Deployment
   - Vercel
   - Netlify
